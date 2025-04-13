@@ -1,3 +1,5 @@
+[中文](README_CN.md) | English
+
 <p align="center">
   <picture>
     <img alt="Ultravox" src="https://zfmrfvimiaqahezndsse.supabase.co/storage/v1/object/public/images/custom/Introducing%20Ultravox%20Wide.jpg">
